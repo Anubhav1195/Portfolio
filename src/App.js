@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Anubhav verma is a good student, he lived in Lakhimpur Kheri And His Friend Yogendra verma ji,
+         Anubhav verma is a good student, he lived in Lakhimpur Kheri And His Friend Yogendra verma , Adersh , bhaiya,
         </p>
         <a
           className="App-link"
