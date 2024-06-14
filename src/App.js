@@ -7,10 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         Anubhav verma is a good student, he lived in Lakhimpur Kheri And His Friend Yogendra verma ji,
         </p>
         <a
           className="App-link"
+
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
